@@ -5,6 +5,17 @@ This project is my final year project implementation and is all about restoring 
 
 ![image](https://user-images.githubusercontent.com/48184601/184223352-e1368dae-fc9f-47d5-bfb9-7d654fa7b82d.png)
 
+#System Specs
+
+![image](https://user-images.githubusercontent.com/48184601/188896033-105042c4-6444-4f72-8e9b-0b8d4b68e007.png)
+
+![image](https://user-images.githubusercontent.com/48184601/188896107-db1e3795-d593-4a75-a96f-91afd346161c.png)
+
+![image](https://user-images.githubusercontent.com/48184601/188896174-4fdc4289-4085-416a-bfd5-391239d7630b.png)
+
+![image](https://user-images.githubusercontent.com/48184601/188896229-22793488-3bcd-4a12-9eb1-3f0bf5497981.png)
+
+
 
 ## Requirement
 The code is tested on Ubuntu with Nvidia GPUs and CUDA installed. Python>=3.6 is required to run the code.
