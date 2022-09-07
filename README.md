@@ -5,7 +5,7 @@ This project is my final year project implementation and is all about restoring 
 
 ![image](https://user-images.githubusercontent.com/48184601/184223352-e1368dae-fc9f-47d5-bfb9-7d654fa7b82d.png)
 
-## System Specs
+## System Design
 
 ![image](https://user-images.githubusercontent.com/48184601/188896033-105042c4-6444-4f72-8e9b-0b8d4b68e007.png)
 
@@ -15,9 +15,9 @@ This project is my final year project implementation and is all about restoring 
 
 ![image](https://user-images.githubusercontent.com/48184601/188950527-550f43a6-5f49-45f3-9ae5-76751c330e91.png)
 
-## Pdap
-
 ![image](https://user-images.githubusercontent.com/48184601/188896229-22793488-3bcd-4a12-9eb1-3f0bf5497981.png)
+
+## Testing
 
 ![image](https://user-images.githubusercontent.com/48184601/188950648-0e230f80-db35-41c2-9992-50cda5174cf9.png)
 
@@ -33,8 +33,6 @@ This project is my final year project implementation and is all about restoring 
 
 ![image](https://user-images.githubusercontent.com/48184601/188950857-4bab9de2-784f-4640-a77b-e47438388337.png)
 
-## pdap 2
-
 ![image](https://user-images.githubusercontent.com/48184601/188950938-1161cd2e-62c4-4f52-a751-07670f462b96.png)
 
 ![image](https://user-images.githubusercontent.com/48184601/188950972-f99bd5f2-6af8-437d-ac96-9d38107c3828.png)
@@ -44,6 +42,8 @@ This project is my final year project implementation and is all about restoring 
 ![image](https://user-images.githubusercontent.com/48184601/188951059-71fdc480-e646-42b3-b871-6ec8b19a4960.png)
 
 ![image](https://user-images.githubusercontent.com/48184601/188951092-2b90af3c-5702-4a47-9296-2d9273acc1e2.png)
+
+## References
 
 ![image](https://user-images.githubusercontent.com/48184601/188951135-ff41b751-07ff-4702-84b8-f025bacd6b20.png)
 
