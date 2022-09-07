@@ -3,8 +3,6 @@ This project is my final year project implementation and is all about restoring 
 
 ## Demo
 
-![embed]([C16_PPT.pdf](https://github.com/ashutoshm1771/Restoration-of-Degraded-Images-Using-VAE-and-GAN/blob/main/C16_PPT.pdf))[/embed]
-
 ![image](https://user-images.githubusercontent.com/48184601/184223352-e1368dae-fc9f-47d5-bfb9-7d654fa7b82d.png)
 
 
